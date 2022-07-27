@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.6b6ccb86.chunk.js",
-    "main.js.map": "./static/js/main.6b6ccb86.chunk.js.map",
+    "main.js": "./static/js/main.2c8debda.chunk.js",
+    "main.js.map": "./static/js/main.2c8debda.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.13353b9d.js",
     "runtime-main.js.map": "./static/js/runtime-main.13353b9d.js.map",
     "static/css/2.83e03661.chunk.css": "./static/css/2.83e03661.chunk.css",
@@ -99,7 +99,7 @@
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
     "static/media/ethereum-logo.png": "./static/media/ethereum-logo.16fe659c.png",
     "static/media/gas-icon.7653c8fe.svg": "./static/media/gas-icon.7653c8fe.svg",
-    "static/media/logo.09cebba0.svg": "./static/media/logo.09cebba0.svg",
+    "static/media/logo.2493cfea.svg": "./static/media/logo.2493cfea.svg",
     "static/media/matic-token-icon.da7b877d.svg": "./static/media/matic-token-icon.da7b877d.svg",
     "static/media/menu.79681e1f.svg": "./static/media/menu.79681e1f.svg",
     "static/media/metamask.02e3ec27.png": "./static/media/metamask.02e3ec27.png",
@@ -116,6 +116,6 @@
     "static/js/runtime-main.13353b9d.js",
     "static/css/2.83e03661.chunk.css",
     "static/js/2.7627816d.chunk.js",
-    "static/js/main.6b6ccb86.chunk.js"
+    "static/js/main.2c8debda.chunk.js"
   ]
 }
